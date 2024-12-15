@@ -1,0 +1,17 @@
+{
+    "wedding": [
+      {
+        "id": 1,
+        "name": "awang",
+        "message":"akan",
+        "attendance":"hadir"
+      },
+      {
+        "id": 2,
+        "name": "Smartphone",
+        "message":"tidak",
+        "attendance":"hadir tidak"
+      }
+    ]
+  }
+  
