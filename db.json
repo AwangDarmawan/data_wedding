@@ -1,3 +1,10 @@
 {
-  "wedding": []
+  "wedding": [
+    {
+      "name": "ddd",
+      "message": "ss",
+      "attendance": "yes",
+      "id": 1
+    }
+  ]
 }
