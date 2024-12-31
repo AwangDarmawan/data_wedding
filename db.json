@@ -5,6 +5,12 @@
       "message": "Tidak gasis",
       "attendance": "no",
       "id": 1
+    },
+    {
+      "name": "ferri",
+      "message": "SSW",
+      "attendance": "maybe",
+      "id": 2
     }
   ]
 }
