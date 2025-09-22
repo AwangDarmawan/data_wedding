@@ -1,16 +1,34 @@
 {
   "wedding": [
     {
-      "name": "ss",
-      "message": "Tidak gasis",
-      "attendance": "no",
+      "name": "Awang",
+      "message": "Awabf ddd",
+      "attendance": "yes",
       "id": 1
     },
     {
-      "name": "ferri",
-      "message": "SSW",
-      "attendance": "maybe",
+      "name": "Dimas Ramdan",
+      "message": "ffff",
+      "attendance": "yes",
       "id": 2
+    },
+    {
+      "name": "sss",
+      "message": "sss",
+      "attendance": "yes",
+      "id": 3
+    },
+    {
+      "name": "bedul",
+      "message": "ssss",
+      "attendance": "yes",
+      "id": 4
+    },
+    {
+      "name": "Dimas Ramdan",
+      "message": "cn cnc ",
+      "attendance": "yes",
+      "id": 5
     }
   ]
 }
