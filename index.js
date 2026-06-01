@@ -22,8 +22,8 @@ const middlewares = jsonServer.defaults();
 
 const db = {
   wedding: [
-    { id: 1, name: "sss", message: "sss", attendance: "yes" },
-    { id: 2, name: "bedul", message: "ssss", attendance: "yes" }
+    { id: 1, name: "jeri", message: "gassken", attendance: "yes" },
+    { id: 2, name: "Ferro", message: "berangkt", attendance: "yes" }
   ]
 };
 
