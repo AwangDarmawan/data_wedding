@@ -1,89 +1,22 @@
 {
   "wedding": [
     {
-      "name": "sss",
-      "message": "sss",
+      "name": "B",
+      "message": "coba1",
       "attendance": "yes",
+      "id": 1
+    },
+    {
+      "name": "A",
+      "message": "coba2",
+      "attendance": "yes",
+      "id": 2
+    },
+    {
+      "name": "C",
+      "message": "coba 3",
+      "attendance": "no",
       "id": 3
-    },
-  
-    {
-      "name": "Front End Java Script Wave 5",
-      "message": "dddd",
-      "attendance": "no",
-      "id": 6
-    },
-    {
-      "name": "DDD",
-      "message": "SDS",
-      "attendance": "yes",
-      "id": 7
-    },
-    {
-      "name": "sss",
-      "message": "ssss",
-      "attendance": "yes",
-      "id": 8
-    },
-    {
-      "name": "ssdfdeqwe",
-      "message": "qee",
-      "attendance": "no",
-      "id": 9
-    },
-    {
-      "name": "xxx",
-      "message": "unsufbvf",
-      "attendance": "no",
-      "id": 10
-    },
-    {
-      "name": "Risna ana",
-      "message": "sss",
-      "attendance": "yes",
-      "id": 11
-    },
-    {
-      "name": "Risna ana",
-      "message": "sss",
-      "attendance": "yes",
-      "id": 12
-    },
-    {
-      "name": "Risna ana",
-      "message": "sss",
-      "attendance": "yes",
-      "id": 13
-    },
-    {
-      "name": "Risna ana",
-      "message": "sss",
-      "attendance": "yes",
-      "id": 14
-    },
-    {
-      "name": "Risna ana",
-      "message": "sss",
-      "attendance": "yes",
-      "id": 15
-    },
-    {
-      "name": "Risna ana",
-      "message": "sss",
-      "attendance": "yes",
-      "id": 16
-    },
-    {
-      "name": "Risna ana",
-      "message": "sss",
-      "attendance": "yes",
-      "id": 17
-    },
-    {
-      "name": "GARU",
-      "message": "SJBSJB",
-      "attendance": "yes",
-      "id": 18
     }
   ]
 }
